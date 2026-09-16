@@ -12,4 +12,16 @@ if (!DATABASE_URL) {
 }
 
 // One shared connection pool for the whole process.
-export const sql = postgres(DATABASE_URL);
+export const sql = postgres(DATABASE_URL, {
+  // Keep DATE as 'YYYY-MM-DD'. The default would be a JS Date at local midnight,
+  // which shifts the day depending on the machine timezone.
+  types: {
+    date: {
+      to: 1082,
+      from: [1082],
+      serialize: (value: string | Date) =>
+        value instanceof Date ? value.toISOString().slice(0, 10) : value,
+      parse: (value: string) => value,
+    },
+  },
+});
