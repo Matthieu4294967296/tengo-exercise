@@ -1,0 +1,19 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: tengo
+      POSTGRES_PASSWORD: tengo
+      POSTGRES_DB: tenders
+    ports:
+      - '5432:5432'
+    volumes:
+      - tenders-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U tengo -d tenders']
+      interval: 2s
+      timeout: 5s
+      retries: 15
+
+volumes:
+  tenders-data:

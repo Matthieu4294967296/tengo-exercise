@@ -1,0 +1,404 @@
+<jo:ann xmlns:jo="http://boamp.journal-officiel.gouv.fr/XML/3.2.5">
+   <DONNEES>
+      <MAPA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+         <organisme>
+            <correspondantPRM>
+               <nom>DAYOT</nom>
+               <pren>Charles</pren>
+               <fonc>Maire</fonc>
+            </correspondantPRM>
+            <acheteurPublic>Ville de Mont de Marsan</acheteurPublic>
+            <adr>
+               <voie>
+                  <nomvoie>2 place du Général Leclerc</nomvoie>
+               </voie>
+               <cp>40011</cp>
+               <bp>305</bp>
+               <ville>MONT DE MARSAN CEDEX</ville>
+            </adr>
+            <coord>
+               <tel>0558058787</tel>
+               <mel>marches.publics@montdemarsan.fr</mel>
+               <url>http://www.montdemarsan.fr/</url>
+            </coord>
+            <urlProfilAcheteur>https://marchespublics.landespublic.org</urlProfilAcheteur>
+            <classificationOrganisme>4</classificationOrganisme>
+         </organisme>
+         <initial>
+            <natureMarche>
+               <fournitures/>
+            </natureMarche>
+            <description>
+               <objet>ACQUISITION D'UN VEHICULE NEUF DE TRANSPORT AVANT ET APRES MISE EN BIERE TYPE VTC</objet>
+               <lieuLivraison>
+                  <voie>
+                     <nomvoie>Pompes Funèbres</nomvoie>
+                  </voie>
+                  <cp>40000</cp>
+                  <ville>MONT-DE-MARSAN</ville>
+               </lieuLivraison>
+            </description>
+            <caracteristiques>
+               <variantes>
+                  <non/>
+               </variantes>
+               <principales>Les prestations sont réglées par des prix unitaires.
+ACQUISITION D'UN VÉHICULE NEUF DE TRANSPORT AVANT ET APRÈS MISE EN BIÈRE TYPE VTC</principales>
+            </caracteristiques>
+            <conditions>
+               <euro/>
+               <langue>
+                  <langEC>fr</langEC>
+               </langue>
+            </conditions>
+            <criteres>
+               <criterePondere>
+                  <criterePCT>60</criterePCT>
+                  <critere>Valeur technique</critere>
+               </criterePondere>
+               <criterePondere>
+                  <criterePCT>40</criterePCT>
+                  <critere>Prix des prestations</critere>
+               </criterePondere>
+            </criteres>
+            <procedure>
+               <procedureAdaptee/>
+            </procedure>
+            <delais>
+               <receptionOffres>2024-06-17T23:59:00</receptionOffres>
+               <validite>
+                  <nbMois>6</nbMois>
+               </validite>
+            </delais>
+            <renseignements>
+               <idMarche>VEHICULES PFM 24</idMarche>
+               <rensgComplt>Pour retrouver cet avis intégral, déposer un pli, allez sur https://www.marches-publics.info
+Type de marché de Fournitures :Code NUTS : FRI13
+Marché périodique : NON
+Calendrier prévisionnel de publication des prochains avis :Le marché s'inscrit dans un projet/programme financé par des fonds communautaires : NON
+Références du ou des projet(s) et / ou programme(s) :Marchés réservés : NON
+Instance chargée des procédures de recours : Tribunal administratif de Pau, 50 Cours Lyautey, BP 543
+64010 Pau
+Tél : 0559849440 Fax : 0559024993Mel : greffe.ta-pau@juradm.fr
+Service auprès duquel des renseignements peuvent être obtenus concernant l'introduction des recours : Tribunal administratif de Pau, 50 Cours Lyautey, BP 543
+64010 Pau
+Tél : 0559849440 Fax : 0559024993Mel : greffe.ta-pau@juradm.fr</rensgComplt>
+            </renseignements>
+            <adressesComplt>
+               <rensComplementaires>
+                  <PersonneMorale>Ville de Mont de Marsan : Service Commande Publique</PersonneMorale>
+                  <adr>
+                     <voie>
+                        <nomvoie>2 Place du Général Leclerc</nomvoie>
+                     </voie>
+                     <cp>40000</cp>
+                     <ville>Mont de Marsan</ville>
+                  </adr>
+                  <coord>
+                     <tel>0558058762</tel>
+                     <mel>marchespublics@montdemarsan-agglo.fr</mel>
+                     <url>https://marchespublics.landespublic.org</url>
+                  </coord>
+               </rensComplementaires>
+            </adressesComplt>
+            <marcheUnique/>
+            <infosSup>
+       </infosSup>
+         </initial>
+      </MAPA>
+   </DONNEES>
+   <GESTION>
+      <REFERENCE>
+         <IDWEB>24-57353</IDWEB>
+         <TYPE_AVIS>
+            <FAMILLE>
+               <MAPA/>
+            </FAMILLE>
+            <PERIMETRE>
+               <MAPA/>
+            </PERIMETRE>
+            <NATURE>
+               <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+               <INITIAL/>
+            </STATUT>
+         </TYPE_AVIS>
+      </REFERENCE>
+      <INDEXATION>
+         <SCHEMA>3.2.5</SCHEMA>
+         <NOMORGANISME>Ville de Mont de Marsan</NOMORGANISME>
+         <TYPE_PROCEDURE>
+            <PROCEDURE_ADAPTE/>
+         </TYPE_PROCEDURE>
+         <DATE_PUBLICATION>2024-05-16</DATE_PUBLICATION>
+         <DATE_LIMITE_REPONSE>2024-06-17T23:59:00</DATE_LIMITE_REPONSE>
+         <DATE_FIN_DIFFUSION>2024-06-17</DATE_FIN_DIFFUSION>
+         <DESCRIPTEURS>
+            <DESCRIPTEUR>
+               <CODE>475</CODE>
+               <LIBELLE>Véhicules (acquisition)</LIBELLE>
+            </DESCRIPTEUR>
+         </DESCRIPTEURS>
+         <NATURE_MARCHE>
+            <FOURNITURES/>
+         </NATURE_MARCHE>
+         <DEP_PUBLICATION>40</DEP_PUBLICATION>
+         <RESUME_OBJET>ACQUISITION D'UN VEHICULE NEUF DE TRANSPORT AVANT ET APRES MISE EN BIERE TYPE VTC</RESUME_OBJET>
+      </INDEXATION>
+   </GESTION>
+   <HTML><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="FR">
+   <head>
+      <title>Avis de marché - Avis n° 24-57353 du 16/05/2024</title>
+      <meta name="subject" content="Avis de marché"/>
+      <meta name="author"
+            content="Direction de l’information légale et administrative (DILA)"/>
+      <meta name="description"
+            content="Avis de marché - Avis n° 24-57353 du 16/05/2024 sur le site Boamp.fr"/>
+      <style type="text/css">
+                body {
+                    font-size: 1rem;
+                    line-height: 1.5rem;
+                }
+                .fr-h4 {
+                    font-weight: 700 !important;
+                    margin: 0.5rem 0 0.5rem 0rem !important;
+                    font-size: 1.4rem !important;
+                    line-height: 2rem !important;
+                }
+                .fr-h5 {
+                    font-weight: 700 !important;
+                    margin: 0.5rem 0 0.5rem 0rem !important;
+                    font-size: 1.3rem !important;
+                    line-height: 2rem !important;
+                }
+            
+        .section {
+            padding: 6px 6px 6px 36px;
+        }
+        .fr-text--bold {
+            font-weight: bold;
+        }
+        .center {
+            text-align: center;
+        }
+        .list_style_none {
+            list-style: none;
+        }
+    </style>
+   </head>
+   <body>
+      <div class="center">
+         <div class="fr-h4" id="doc_titre">Avis de marché</div>
+      </div>
+      <div>Département(s) de publication : <span>
+            <strong>40</strong>
+         </span>
+      </div>
+      <div>
+         <span>Annonce n°</span>
+         <strong>24-57353</strong>
+      </div>
+      <div>Fournitures</div>
+      <hr/>
+      <div class="fr-h5" id="section_1">Section 1 - Identification de l'acheteur</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Nom et adresse officiels de l'organisme acheteur : </span>Ville de Mont de Marsan</div>
+         <div>
+            <span class="fr-text--bold">Correspondant : </span>DAYOT Charles<span>, Maire</span>
+         </div>
+         <div>
+            <span class="fr-text--bold">Adresse : </span>2 place du Général Leclerc<span>,</span>
+            <span> B.P. 305 </span>
+            <span> 40011 </span>
+            <span>MONT DE MARSAN CEDEX</span>
+         </div>
+         <div>
+            <span class="fr-text--bold">Coordonnées :</span>
+            <div class="section">
+               <div>
+                  <span class="fr-text--bold">Téléphone :</span>
+                  <span>0558058787</span>
+               </div>
+               <div>
+                  <span class="fr-text--bold">Courriel :</span>
+                  <span>marches.publics@montdemarsan.fr</span>
+               </div>
+               <div>
+                  <span class="fr-text--bold">Adresse internet :</span>
+                  <a xmlns=""
+                     href="http://www.montdemarsan.fr/"
+                     target="_blank"
+                     title="Aller sur la page http://www.montdemarsan.fr/ - nouvelle fenêtre">
+                     <span>http://www.montdemarsan.fr/</span>
+                  </a>
+               </div>
+            </div>
+         </div>
+         <span class="fr-text--bold">Adresse internet du profil d'acheteur :</span>
+         <a xmlns=""
+            href="https://marchespublics.landespublic.org"
+            target="_blank"
+            title="Aller sur la page https://marchespublics.landespublic.org - nouvelle fenêtre">
+            <span>https://marchespublics.landespublic.org</span>
+         </a>
+      </div>
+      <div class="fr-h5" id="section_2">Section 2 - Description du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Objet du marché : </span>ACQUISITION D'UN VEHICULE NEUF DE TRANSPORT AVANT ET APRES MISE EN BIERE TYPE VTC</div>
+         <div>
+            <span class="fr-text--bold">Lieu de livraison : </span>Pompes Funèbres<span>,</span>
+            <span>40000 </span>
+            <span>MONT-DE-MARSAN</span>
+         </div>
+      </div>
+      <div class="fr-h5" id="section_3">Section 3 - Caractéristiques du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Caractéristiques principales : </span>Les prestations sont réglées par des prix unitaires.
+ACQUISITION D'UN VÉHICULE NEUF DE TRANSPORT AVANT ET APRÈS MISE EN BIÈRE TYPE VTC</div>
+         <div>
+            <span class="fr-text--bold">Refus des variantes.</span>
+         </div>
+      </div>
+      <div class="fr-h5" id="section_5">Section 5 - Conditions relative au marché
+                        </div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Unité monétaire utilisée, l'euro.</span>
+         </div>
+         <div>
+            <span class="fr-text--bold">Langues pouvant être utilisées dans l'offre ou la
+                                        candidature en complément de celles faites en français :
+                                    </span>français</div>
+      </div>
+      <div class="fr-h5" id="section_7">Section 7 - Critères d'attribution</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Offre économiquement la plus avantageuse appréciée en fonction des
+                        critères énoncés ci-dessous avec leur pondération :
+                    </span>
+         </div>
+         <ul>
+            <li>Valeur technique : 60%
+                        </li>
+            <li>Prix des prestations : 40%
+                        </li>
+         </ul>
+      </div>
+      <div class="fr-h5" id="section_8">Section 8 - Mode de passation du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Type de procédure : </span>procédure adaptée</div>
+      </div>
+      <div class="fr-h5" id="section_10">Section 10 - Conditions de délai</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Date limite de réception des offres : </span>17/06/2024 à 23:59</div>
+         <div>
+            <span class="fr-text--bold">Délai minimum de validité des offres : </span>6 mois à compter de la date limite de réception des offres.</div>
+      </div>
+      <div class="fr-h5" id="section_11">Section 11 - Autres renseignements</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Numéro de référence attribué au marché par le pouvoir
+                                        adjudicateur / l'entité adjudicatrice :
+                                    </span>VEHICULES PFM 24</div>
+         <div>
+            <span class="fr-text--bold">Renseignements complémentaires : </span>Pour retrouver cet avis intégral, déposer un pli, allez sur https://www.marches-publics.info
+Type de marché de Fournitures :Code NUTS : FRI13
+Marché périodique : NON
+Calendrier prévisionnel de publication des prochains avis :Le marché s'inscrit dans un projet/programme financé par des fonds communautaires : NON
+Références du ou des projet(s) et / ou programme(s) :Marchés réservés : NON
+Instance chargée des procédures de recours : Tribunal administratif de Pau, 50 Cours Lyautey, BP 543
+64010 Pau
+Tél : 0559849440 Fax : 0559024993Mel : greffe.ta-pau@juradm.fr
+Service auprès duquel des renseignements peuvent être obtenus concernant l'introduction des recours : Tribunal administratif de Pau, 50 Cours Lyautey, BP 543
+64010 Pau
+Tél : 0559849440 Fax : 0559024993Mel : greffe.ta-pau@juradm.fr</div>
+      </div>
+      <div class="fr-h5" id="section_12">Section 12 - Adresses complémentaires</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Adresse auprès de laquelle des renseignements
+                                        complémentaires peuvent être obtenus :
+                                    </span>Ville de Mont de Marsan : Service Commande Publique<div class="section">
+               <div>
+                  <span class="fr-text--bold">Adresse :</span>2 Place du Général Leclerc<span>,</span>
+                  <span> 40000 </span>
+                  <span>Mont de Marsan</span>
+               </div>
+               <div>
+                  <span class="fr-text--bold">Coordonnées : </span>
+                  <div class="section">
+                     <div>
+                        <span class="fr-text--bold">Téléphone :</span>
+                        <span>0558058762</span>
+                     </div>
+                     <div>
+                        <span class="fr-text--bold">Courriel :</span>
+                        <span>marchespublics@montdemarsan-agglo.fr</span>
+                     </div>
+                     <div>
+                        <span class="fr-text--bold">Adresse internet :</span>
+                        <a xmlns=""
+                           href="https://marchespublics.landespublic.org"
+                           target="_blank"
+                           title="Aller sur la page https://marchespublics.landespublic.org - nouvelle fenêtre">
+                           <span>https://marchespublics.landespublic.org</span>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="fr-h5" id="section_14">Section 14 - Informations complémentaires
+                        </div>
+      <div class="section"/>
+      <hr/>
+      <div>
+         <span class="fr-text--bold">Date d'envoi du présent avis à la publication : </span>16/05/2024</div>
+   </body>
+</html>
+]]></HTML>
+   <HTMLSYNTHESE><![CDATA[<!DOCTYPE HTML>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   </head>
+   <body>
+      <h3>L’essentiel du marché</h3>
+      <ul>
+         <li><span class="fr-text--bold">Nom de l'organisme acheteur : </span>Ville de Mont de Marsan</li>
+         <li><span class="fr-text--bold">A l'attention de : </span>Charles&nbsp;DAYOT&nbsp;Maire</li>
+         <li><span class="fr-text--bold">Adresse : </span>2 place du Général Leclerc,&nbsp;40011,&nbsp;305&nbsp;MONT DE MARSAN CEDEX&nbsp;</li>
+         <li><span class="fr-text--bold">Téléphone : </span>0558058787</li>
+         <li><span class="fr-text--bold">Courriel : </span>marches.publics@montdemarsan.fr</li>
+         <li><span class="fr-text--bold">Adresse internet : </span><a href="http://www.montdemarsan.fr/" target="_blank" title="Aller sur la page http://www.montdemarsan.fr/ - nouvelle fenêtre"><span>http://www.montdemarsan.fr/</span></a></li>
+         <li><span class="fr-text--bold">Adresse internet du profil d'acheteur : </span><a href="https://marchespublics.landespublic.org" target="_blank" title="Aller sur la page https://marchespublics.landespublic.org - nouvelle fenêtre"><span>https://marchespublics.landespublic.org</span></a></li>
+         <li><span class="fr-text--bold">Objet du marché : </span>ACQUISITION D'UN VEHICULE NEUF DE TRANSPORT AVANT ET APRES MISE EN BIERE TYPE VTC</li>
+         <li><span class="fr-text--bold">Caractéristiques principales : </span>Les prestations sont réglées par des prix unitaires. ACQUISITION D'UN VÉHICULE NEUF
+            DE TRANSPORT AVANT ET APRÈS MISE EN BIÈRE TYPE VTC</li>
+      </ul>
+      <h3>Informations pratiques</h3>
+      <ul>
+         <li><span class="fr-text--bold">Date limite de réception des offres : </span>17/06/2024 à 23:59</li>
+         <li><span class="fr-text--bold">Délai minimum de validité des offres : </span>6 mois</li>
+         <li><span class="fr-text--bold">Critères d'attribution : </span>Offre économiquement la plus avantageuse appréciée en fonction des critères énoncés
+            ci-dessous :
+            <ul>
+               <li>Valeur technique : 60 %</li>
+               <li>Prix des prestations : 40 %</li>
+            </ul>
+         </li>
+      </ul>
+   </body>
+</html>]]></HTMLSYNTHESE>
+</jo:ann>
+

@@ -1,0 +1,394 @@
+<jo:ann xmlns:jo="http://boamp.journal-officiel.gouv.fr/XML/3.2.5">
+   <DONNEES>
+      <MAPA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+         <organisme>
+            <correspondantPRM>
+               <civilite>MME</civilite>
+               <nom>BARRIEU VIGNAL</nom>
+               <pren>Sylvie</pren>
+            </correspondantPRM>
+            <acheteurPublic>Commune de Saint Laurent les Arbres</acheteurPublic>
+            <adr>
+               <voie>
+                  <nomvoie>2 place de la Mairie</nomvoie>
+               </voie>
+               <cp>30126</cp>
+               <ville>Saint Laurent les Arbres</ville>
+            </adr>
+            <coord>
+               <mel>correspondre@aws-france.com</mel>
+               <url>https://mairie-stlaurentdesarbres.fr</url>
+            </coord>
+            <urlProfilAcheteur>http://marches-publics.info</urlProfilAcheteur>
+            <classificationOrganisme>4</classificationOrganisme>
+         </organisme>
+         <initial>
+            <natureMarche>
+               <services/>
+            </natureMarche>
+            <description>
+               <objet>Assurance - Flotte automobile</objet>
+               <lieuExecution>
+                  <voie>
+                     <nomvoie>2, place de la mairie</nomvoie>
+                  </voie>
+                  <cp>30126</cp>
+                  <ville>Saint Laurent des Arbres</ville>
+               </lieuExecution>
+            </description>
+            <caracteristiques>
+     </caracteristiques>
+            <duree>
+               <nbMois>48</nbMois>
+            </duree>
+            <conditions>
+               <euro/>
+               <langue>
+                  <langEC>fr</langEC>
+               </langue>
+            </conditions>
+            <criteres>
+               <critereCDC/>
+            </criteres>
+            <procedure>
+               <procedureAdaptee/>
+            </procedure>
+            <delais>
+               <receptionOffres>2024-09-30T12:00:00</receptionOffres>
+               <validite>
+                  <nbJours>120</nbJours>
+               </validite>
+            </delais>
+            <renseignements>
+               <idMarche>2024_02_MAPA</idMarche>
+               <rensgComplt>Les dépôts de plis doivent être impérativement remis par voie dématérialisée.
+Pour retrouver cet avis intégral, accéder au DCE, poser des questions à l'acheteur, déposer un pli, allez sur https://www.marches-publics.info
+Code NUTS : FRJ12
+Lot 1 - Flotte automobile
+Informations complémentaires : Reconduction automatique à l'échéance chaque année jusqu'au 31 décembre 2028 à minuit, soit une durée de 4 années.
+Le marché s'inscrit dans un projet/programme financé par des fonds communautaires : NON
+Références du ou des projet(s) et / ou programme(s) :Instance chargée des procédures de recours : Tribunal administratif de Nîmes, 16 avenue Feuchères, CS 88010
+30941 NîmesCedex 09
+Tél : 0466273700 Fax : 0466362786Mel : greffe.ta-nimes@juradm.fr
+Service auprès duquel des renseignements peuvent être obtenus concernant l'introduction des recours : Tribunal administratif de Nîmes, 16 avenue Feuchères, CS 88010
+30941 NîmesCedex 09
+Tél : 0466273700 Fax : 0466362786Mel : greffe.ta-nimes@juradm.fr
+L'état de la flotte de véhicules du souscripteur figure en annexe ; il est entendu que ce parc sera éventuellement actualisé au moment de la prise d'effet des garanties et que les modifications éventuelles (adjonctions ou retraits) seront intégrées à la régularisation intervenant à l'issue du premier exercice</rensgComplt>
+            </renseignements>
+            <adressesComplt>
+               <admOuTech>
+                  <adm>
+                     <PersonneMorale>Mairie de St Laurent des Arbres : Messagerie du profil d'acheteur</PersonneMorale>
+                  </adm>
+                  <tech>
+                     <PersonneMorale>Mairie de St Laurent des Arbres : Messagerie du profil d'acheteur</PersonneMorale>
+                  </tech>
+               </admOuTech>
+               <document>
+                  <PersonneMorale>Mairie de St Laurent des Arbres : https://www.marches-publics.info/</PersonneMorale>
+               </document>
+            </adressesComplt>
+            <lots>
+               <plusieursLot/>
+               <lot>
+                  <numLot>1</numLot>
+                  <description>Flotte automobile
+Assurance Flotte automobile
+L'état de la flotte de véhicules du souscripteur figure en annexe ; il est entendu que ce parc sera éventuellement actualisé au moment de la prise d'effet des garanties et que les modifications éventuelles (adjonctions ou retraits) seront intégrées à la régularisation intervenant à l'issue du premier exercice</description>
+               </lot>
+            </lots>
+            <infosSup>
+       </infosSup>
+         </initial>
+      </MAPA>
+   </DONNEES>
+   <GESTION>
+      <REFERENCE>
+         <IDWEB>24-70822</IDWEB>
+         <TYPE_AVIS>
+            <FAMILLE>
+               <MAPA/>
+            </FAMILLE>
+            <PERIMETRE>
+               <MAPA/>
+            </PERIMETRE>
+            <NATURE>
+               <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+               <INITIAL/>
+            </STATUT>
+         </TYPE_AVIS>
+      </REFERENCE>
+      <INDEXATION>
+         <SCHEMA>3.2.5</SCHEMA>
+         <NOMORGANISME>Commune de Saint Laurent les Arbres</NOMORGANISME>
+         <TYPE_PROCEDURE>
+            <PROCEDURE_ADAPTE/>
+         </TYPE_PROCEDURE>
+         <DATE_PUBLICATION>2024-06-18</DATE_PUBLICATION>
+         <DATE_LIMITE_REPONSE>2024-09-30T12:00:00</DATE_LIMITE_REPONSE>
+         <DATE_FIN_DIFFUSION>2024-09-15</DATE_FIN_DIFFUSION>
+         <DESCRIPTEURS>
+            <DESCRIPTEUR>
+               <CODE>20</CODE>
+               <LIBELLE>Assurance</LIBELLE>
+            </DESCRIPTEUR>
+         </DESCRIPTEURS>
+         <NATURE_MARCHE>
+            <SERVICES/>
+         </NATURE_MARCHE>
+         <DEP_PUBLICATION>30</DEP_PUBLICATION>
+         <DEP_PUBLICATION>34</DEP_PUBLICATION>
+         <DEP_PUBLICATION>13</DEP_PUBLICATION>
+         <DEP_PUBLICATION>84</DEP_PUBLICATION>
+         <DEP_PUBLICATION>26</DEP_PUBLICATION>
+         <DEP_PUBLICATION>69</DEP_PUBLICATION>
+         <RESUME_OBJET>Assurance - Flotte automobile</RESUME_OBJET>
+      </INDEXATION>
+   </GESTION>
+   <HTML><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="FR">
+   <head>
+      <title>Avis de marché - Avis n° 24-70822 du 18/06/2024</title>
+      <meta name="subject" content="Avis de marché"/>
+      <meta name="author"
+            content="Direction de l’information légale et administrative (DILA)"/>
+      <meta name="description"
+            content="Avis de marché - Avis n° 24-70822 du 18/06/2024 sur le site Boamp.fr"/>
+      <style type="text/css">
+                body {
+                    font-size: 1rem;
+                    line-height: 1.5rem;
+                }
+                .fr-h4 {
+                    font-weight: 700 !important;
+                    margin: 0.5rem 0 0.5rem 0rem !important;
+                    font-size: 1.4rem !important;
+                    line-height: 2rem !important;
+                }
+                .fr-h5 {
+                    font-weight: 700 !important;
+                    margin: 0.5rem 0 0.5rem 0rem !important;
+                    font-size: 1.3rem !important;
+                    line-height: 2rem !important;
+                }
+            
+        .section {
+            padding: 6px 6px 6px 36px;
+        }
+        .fr-text--bold {
+            font-weight: bold;
+        }
+        .center {
+            text-align: center;
+        }
+        .list_style_none {
+            list-style: none;
+        }
+    </style>
+   </head>
+   <body>
+      <div class="center">
+         <div class="fr-h4" id="doc_titre">Avis de marché</div>
+      </div>
+      <div>Département(s) de publication : <span>
+            <strong>30, 34, 13, 84, 26, 69</strong>
+         </span>
+      </div>
+      <div>
+         <span>Annonce n°</span>
+         <strong>24-70822</strong>
+      </div>
+      <div>Services</div>
+      <hr/>
+      <div class="fr-h5" id="section_1">Section 1 - Identification de l'acheteur</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Nom et adresse officiels de l'organisme acheteur : </span>Commune de Saint Laurent les Arbres</div>
+         <div>
+            <span class="fr-text--bold">Correspondant : </span>MME BARRIEU VIGNAL Sylvie</div>
+         <div>
+            <span class="fr-text--bold">Adresse : </span>2 place de la Mairie<span>,</span>
+            <span> 30126 </span>
+            <span>Saint Laurent les Arbres</span>
+         </div>
+         <div>
+            <span class="fr-text--bold">Coordonnées :</span>
+            <div class="section">
+               <div>
+                  <span class="fr-text--bold">Courriel :</span>
+                  <span>correspondre@aws-france.com</span>
+               </div>
+               <div>
+                  <span class="fr-text--bold">Adresse internet :</span>
+                  <a xmlns=""
+                     href="https://mairie-stlaurentdesarbres.fr"
+                     target="_blank"
+                     title="Aller sur la page https://mairie-stlaurentdesarbres.fr - nouvelle fenêtre">
+                     <span>https://mairie-stlaurentdesarbres.fr</span>
+                  </a>
+               </div>
+            </div>
+         </div>
+         <span class="fr-text--bold">Adresse internet du profil d'acheteur :</span>
+         <a xmlns=""
+            href="http://marches-publics.info"
+            target="_blank"
+            title="Aller sur la page http://marches-publics.info - nouvelle fenêtre">
+            <span>http://marches-publics.info</span>
+         </a>
+      </div>
+      <div class="fr-h5" id="section_2">Section 2 - Description du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Objet du marché : </span>Assurance - Flotte automobile</div>
+         <div>
+            <span class="fr-text--bold">Lieu d'exécution : </span>2, place de la mairie<span>,</span>
+            <span>30126 </span>
+            <span>Saint Laurent des Arbres</span>
+         </div>
+      </div>
+      <div class="fr-h5" id="section_3">Section 3 - Caractéristiques du marché</div>
+      <div class="section"/>
+      <div class="fr-h5" id="section_4">Section 4 - Durée du marché ou délai
+                            d'exécution
+                        </div>
+      <div class="section">
+         <div>48 mois à compter de la notification du marché.</div>
+      </div>
+      <div class="fr-h5" id="section_5">Section 5 - Conditions relative au marché
+                        </div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Unité monétaire utilisée, l'euro.</span>
+         </div>
+         <div>
+            <span class="fr-text--bold">Langues pouvant être utilisées dans l'offre ou la
+                                        candidature en complément de celles faites en français :
+                                    </span>français</div>
+      </div>
+      <div class="fr-h5" id="section_7">Section 7 - Critères d'attribution</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Offre économiquement la plus avantageuse appréciée en fonction des
+                        critères énoncés dans le cahier des charges (règlement de la consultation, lettre d'invitation
+                        ou document descriptif)
+                    </span>
+         </div>
+      </div>
+      <div class="fr-h5" id="section_8">Section 8 - Mode de passation du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Type de procédure : </span>procédure adaptée</div>
+      </div>
+      <div class="fr-h5" id="section_10">Section 10 - Conditions de délai</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Date limite de réception des offres : </span>30/09/2024 à 12:00</div>
+         <div>
+            <span class="fr-text--bold">Délai minimum de validité des offres : </span>120 jours à compter de la date limite de réception des offres.</div>
+      </div>
+      <div class="fr-h5" id="section_11">Section 11 - Autres renseignements</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Numéro de référence attribué au marché par le pouvoir
+                                        adjudicateur / l'entité adjudicatrice :
+                                    </span>2024_02_MAPA</div>
+         <div>
+            <span class="fr-text--bold">Renseignements complémentaires : </span>Les dépôts de plis doivent être impérativement remis par voie dématérialisée.
+Pour retrouver cet avis intégral, accéder au DCE, poser des questions à l'acheteur, déposer un pli, allez sur https://www.marches-publics.info
+Code NUTS : FRJ12
+Lot 1 - Flotte automobile
+Informations complémentaires : Reconduction automatique à l'échéance chaque année jusqu'au 31 décembre 2028 à minuit, soit une durée de 4 années.
+Le marché s'inscrit dans un projet/programme financé par des fonds communautaires : NON
+Références du ou des projet(s) et / ou programme(s) :Instance chargée des procédures de recours : Tribunal administratif de Nîmes, 16 avenue Feuchères, CS 88010
+30941 NîmesCedex 09
+Tél : 0466273700 Fax : 0466362786Mel : greffe.ta-nimes@juradm.fr
+Service auprès duquel des renseignements peuvent être obtenus concernant l'introduction des recours : Tribunal administratif de Nîmes, 16 avenue Feuchères, CS 88010
+30941 NîmesCedex 09
+Tél : 0466273700 Fax : 0466362786Mel : greffe.ta-nimes@juradm.fr
+L'état de la flotte de véhicules du souscripteur figure en annexe ; il est entendu que ce parc sera éventuellement actualisé au moment de la prise d'effet des garanties et que les modifications éventuelles (adjonctions ou retraits) seront intégrées à la régularisation intervenant à l'issue du premier exercice</div>
+      </div>
+      <div class="fr-h5" id="section_12">Section 12 - Adresses complémentaires</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Adresse auprès de laquelle des renseignements d'ordre
+                                        administratif peuvent être obtenus :
+                                    </span>Mairie de St Laurent des Arbres : Messagerie du profil d'acheteur</div>
+         <div>
+            <span class="fr-text--bold">Adresse auprès de laquelle des renseignements d'ordre
+                                        administratif peuvent être obtenus :
+                                    </span>Mairie de St Laurent des Arbres : Messagerie du profil d'acheteur</div>
+         <div>
+            <span class="fr-text--bold">Adresse auprès de laquelle les documents peuvent être
+                                        obtenus :
+                                    </span>Mairie de St Laurent des Arbres : https://www.marches-publics.info/</div>
+      </div>
+      <div class="fr-h5" id="section_13">Section 13 - Renseignements relatifs aux
+                            lots
+                        </div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Possibilité de présenter une offre pour plusieurs
+                                        lots
+                                    </span>
+         </div>
+         <ul>
+            <li>
+               <div>
+                  <span class="fr-text--bold">Lot(s)
+                                                1</span> - Flotte automobile
+Assurance Flotte automobile
+L'état de la flotte de véhicules du souscripteur figure en annexe ; il est entendu que ce parc sera éventuellement actualisé au moment de la prise d'effet des garanties et que les modifications éventuelles (adjonctions ou retraits) seront intégrées à la régularisation intervenant à l'issue du premier exercice</div>
+            </li>
+         </ul>
+      </div>
+      <div class="fr-h5" id="section_14">Section 14 - Informations complémentaires
+                        </div>
+      <div class="section"/>
+      <hr/>
+      <div>
+         <span class="fr-text--bold">Date d'envoi du présent avis à la publication : </span>18/06/2024</div>
+   </body>
+</html>
+]]></HTML>
+   <HTMLSYNTHESE><![CDATA[<!DOCTYPE HTML>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   </head>
+   <body>
+      <h3>L’essentiel du marché</h3>
+      <ul>
+         <li><span class="fr-text--bold">Nom de l'organisme acheteur : </span>Commune de Saint Laurent les Arbres</li>
+         <li><span class="fr-text--bold">A l'attention de : </span>MME&nbsp;Sylvie&nbsp;BARRIEU VIGNAL&nbsp;</li>
+         <li><span class="fr-text--bold">Adresse : </span>2 place de la Mairie,&nbsp;30126,&nbsp;Saint Laurent les Arbres&nbsp;</li>
+         <li><span class="fr-text--bold">Courriel : </span>correspondre@aws-france.com</li>
+         <li><span class="fr-text--bold">Adresse internet : </span><a href="https://mairie-stlaurentdesarbres.fr" target="_blank" title="Aller sur la page https://mairie-stlaurentdesarbres.fr - nouvelle fenêtre"><span>https://mairie-stlaurentdesarbres.fr</span></a></li>
+         <li><span class="fr-text--bold">Adresse internet du profil d'acheteur : </span><a href="http://marches-publics.info" target="_blank" title="Aller sur la page http://marches-publics.info - nouvelle fenêtre"><span>http://marches-publics.info</span></a></li>
+         <li><span class="fr-text--bold">Objet du marché : </span>Assurance - Flotte automobile</li>
+         <li><span class="fr-text--bold">Possibilité de présenter une offre pour : </span>un ou plusieurs lots</li>
+         <li><span class="fr-text--bold">Renseignements relatifs aux lots :</span><ul>
+               <li>Lot no 1 : Flotte automobile Assurance Flotte automobile L'état de la flotte de véhicules du
+                  souscripteur figure en annexe ; il est entendu que ce parc sera éventuellement actualisé
+                  au moment de la prise d'effet des garanties et que les modifications éventuelles (adjonctions
+                  ou retraits) seront intégrées à la régularisation intervenant à l'issue du premier
+                  exercice</li>
+            </ul>
+         </li>
+      </ul>
+      <h3>Informations pratiques</h3>
+      <ul>
+         <li><span class="fr-text--bold">Date limite de réception des offres : </span>30/09/2024 à 12:00</li>
+         <li><span class="fr-text--bold">Délai minimum de validité des offres : </span>120 jours</li>
+         <li><span class="fr-text--bold">Critères d'attribution : </span>Offre économiquement la plus avantageuse appréciée en fonction des critères énoncés
+            dans le cahier des charges (règlement de la consultation, lettre d'invitation ou document
+            descriptif).</li>
+      </ul>
+   </body>
+</html>]]></HTMLSYNTHESE>
+</jo:ann>
+

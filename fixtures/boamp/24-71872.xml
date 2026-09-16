@@ -1,0 +1,363 @@
+<jo:ann xmlns:jo="http://boamp.journal-officiel.gouv.fr/XML/3.2.5">
+   <DONNEES>
+      <MAPA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+         <organisme>
+            <correspondantPRM>
+               <nom>MAIRIE DE MONTOISON</nom>
+            </correspondantPRM>
+            <acheteurPublic>MAIRIE DE MONTOISON</acheteurPublic>
+            <adr>
+               <voie>
+                  <nomvoie>Grande Rue</nomvoie>
+               </voie>
+               <cp>26800</cp>
+               <ville>MONTOISON</ville>
+            </adr>
+            <coord>
+               <url>https://www.marches-publics.info/</url>
+            </coord>
+            <urlProfilAcheteur>https://www.marches-publics.info/</urlProfilAcheteur>
+            <classificationOrganisme>4</classificationOrganisme>
+         </organisme>
+         <initial>
+            <natureMarche>
+               <services/>
+            </natureMarche>
+            <description>
+               <objet>Maîtrise d'oeuvre pour la Création d'une chaufferie bois et d'un réseau de chaleur local - Commune de Montoison</objet>
+               <lieuExecution>
+                  <voie>
+                     <nomvoie>A proximité des bâtiments concernés</nomvoie>
+                  </voie>
+                  <cp>26800</cp>
+                  <ville>MONTOISON</ville>
+               </lieuExecution>
+            </description>
+            <caracteristiques>
+               <variantes>
+                  <oui/>
+               </variantes>
+               <principales>Désignation de l'équipe de maîtrise d'oeuvre chargée de la réalisation d'une chaufferie automatique au bois avec réseau de chaleur sur la commune de Montoison dans le département de la Drôme (26) pour alimenter en chauffage :
+- La mairie,- L'école élémentaire
+- L'école maternelle (sans la salle de motricité)
+- L'ensemble :  Cantine /médiathèque
+- La maison du parc
+Le détail des missions confiées au titulaire figure au cahier des charges.
+Les prestations sont réglées par des prix forfaitaires</principales>
+            </caracteristiques>
+            <duree>
+               <dateACompterDu>2024-09-30</dateACompterDu>
+               <dateJusquau>2026-01-02</dateJusquau>
+            </duree>
+            <conditions>
+               <euro/>
+               <langue>
+                  <langEC>fr</langEC>
+               </langue>
+            </conditions>
+            <criteres>
+               <critereCDC/>
+            </criteres>
+            <procedure>
+               <procedureAdaptee/>
+            </procedure>
+            <delais>
+               <receptionOffres>2024-07-31T18:00:00</receptionOffres>
+               <validite>
+                  <nbMois>4</nbMois>
+               </validite>
+            </delais>
+            <renseignements>
+               <idMarche>2024MONTOISON01</idMarche>
+               <rensgComplt>Les dépôts de plis doivent être impérativement remis par voie dématérialisée.
+Pour retrouver cet avis intégral, accéder au DCE, poser des questions à l'acheteur, déposer un pli, allez sur https://www.marches-publics.info
+Code NUTS : FRK23
+Options : OUI
+Le contrat prévoit la possibilité de confier ultérieurement au titulaire du marché un ou plusieurs marchés ayant pour objet la réalisation de prestations similaires.
+Marché périodique : NON
+Calendrier prévisionnel de publication des prochains avis :Le marché s'inscrit dans un projet/programme financé par des fonds communautaires : NON
+Références du ou des projet(s) et / ou programme(s) :Les personnes morales sont tenues d'indiquer les noms et qualifications professionnelles des membres du personnel chargés de la prestation : NON
+Marchés réservés : NON
+La prestation est réservée à une profession particulière : Non
+Instance chargée des procédures de recours : Tribunal administratif de Grenoble, 2 Place de Verdun
+38022 Grenoble
+Tél : 0476429000Mel : greffe.ta-grenoble@juradm.fr
+Précisions concernant le(s) délai(s) d'introduction des recours : Référé précontractuel (art L. 551-1 du CJA) pendant toute la procédure et avant la signature du marché.
+Référé contractuel (article L.551.13 et suivants du CJA) au plus tard le trente et unième jour suivant la publication d'un avis
+d'attribution du marché ou, pour les marchés fondés sur un accord-cadre ou un système d'acquisition dynamique, suivant la
+notification de la conclusion du contrat.
+Recours en contestation de la validité du contrat : tout concurrent évincé de la conclusion d'un contrat administratif est recevable à former devant le juge administratif un recours de pleine juridiction contestant la validité de ce contrat ou de certaines de ses clauses qui en sont divisibles assorti le cas échéant de demandes indemnitaires dans un délai de 2 mois à compter des mesures de publicité appropriées notamment de la publication de l'avis d'attribution.
+Recours indemnitaire dans les 2 mois à compter d'une décision expresse de rejet de la demande préalable (art R. 421-1 et suivants du CJA) ou sans condition de délai dans le cas d'une décision implicite de rejet née du silence gardée par le pouvoir adjudicateur pendant plus de 2 mois à compter de la réception de la demande préalable et sous réserve des dispositions de la loi n º 68-1250 du 31 décembre 1968 relative à la prescription des créances de l'État, les départements, les communes et les établissements publics (prescription quadriennale).
+Service auprès duquel des renseignements peuvent être obtenus sur l'introduction de recours :
+Nom officiel: Tribunal administratif de Grenoble</rensgComplt>
+            </renseignements>
+            <marcheUnique/>
+            <infosSup>
+       </infosSup>
+         </initial>
+      </MAPA>
+   </DONNEES>
+   <GESTION>
+      <REFERENCE>
+         <IDWEB>24-71872</IDWEB>
+         <TYPE_AVIS>
+            <FAMILLE>
+               <MAPA/>
+            </FAMILLE>
+            <PERIMETRE>
+               <MAPA/>
+            </PERIMETRE>
+            <NATURE>
+               <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+               <INITIAL/>
+            </STATUT>
+         </TYPE_AVIS>
+      </REFERENCE>
+      <INDEXATION>
+         <SCHEMA>3.2.5</SCHEMA>
+         <NOMORGANISME>MAIRIE DE MONTOISON</NOMORGANISME>
+         <TYPE_PROCEDURE>
+            <PROCEDURE_ADAPTE/>
+         </TYPE_PROCEDURE>
+         <DATE_PUBLICATION>2024-06-20</DATE_PUBLICATION>
+         <DATE_LIMITE_REPONSE>2024-07-31T18:00:00</DATE_LIMITE_REPONSE>
+         <DATE_FIN_DIFFUSION>2024-07-31</DATE_FIN_DIFFUSION>
+         <DESCRIPTEURS>
+            <DESCRIPTEUR>
+               <CODE>61</CODE>
+               <LIBELLE>Chauffage (travaux)</LIBELLE>
+            </DESCRIPTEUR>
+         </DESCRIPTEURS>
+         <NATURE_MARCHE>
+            <SERVICES/>
+         </NATURE_MARCHE>
+         <DEP_PUBLICATION>26</DEP_PUBLICATION>
+         <RESUME_OBJET>Maîtrise d'oeuvre pour la Création d'une chaufferie bois et d'un réseau de chaleur local - Commune de Montoison</RESUME_OBJET>
+      </INDEXATION>
+   </GESTION>
+   <HTML><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="FR">
+   <head>
+      <title>Avis de marché - Avis n° 24-71872 du 20/06/2024</title>
+      <meta name="subject" content="Avis de marché"/>
+      <meta name="author"
+            content="Direction de l’information légale et administrative (DILA)"/>
+      <meta name="description"
+            content="Avis de marché - Avis n° 24-71872 du 20/06/2024 sur le site Boamp.fr"/>
+      <style type="text/css">
+                body {
+                    font-size: 1rem;
+                    line-height: 1.5rem;
+                }
+                .fr-h4 {
+                    font-weight: 700 !important;
+                    margin: 0.5rem 0 0.5rem 0rem !important;
+                    font-size: 1.4rem !important;
+                    line-height: 2rem !important;
+                }
+                .fr-h5 {
+                    font-weight: 700 !important;
+                    margin: 0.5rem 0 0.5rem 0rem !important;
+                    font-size: 1.3rem !important;
+                    line-height: 2rem !important;
+                }
+            
+        .section {
+            padding: 6px 6px 6px 36px;
+        }
+        .fr-text--bold {
+            font-weight: bold;
+        }
+        .center {
+            text-align: center;
+        }
+        .list_style_none {
+            list-style: none;
+        }
+    </style>
+   </head>
+   <body>
+      <div class="center">
+         <div class="fr-h4" id="doc_titre">Avis de marché</div>
+      </div>
+      <div>Département(s) de publication : <span>
+            <strong>26</strong>
+         </span>
+      </div>
+      <div>
+         <span>Annonce n°</span>
+         <strong>24-71872</strong>
+      </div>
+      <div>Services</div>
+      <hr/>
+      <div class="fr-h5" id="section_1">Section 1 - Identification de l'acheteur</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Nom et adresse officiels de l'organisme acheteur : </span>MAIRIE DE MONTOISON</div>
+         <div>
+            <span class="fr-text--bold">Correspondant : </span>MAIRIE DE MONTOISON</div>
+         <div>
+            <span class="fr-text--bold">Adresse : </span>Grande Rue<span>,</span>
+            <span> 26800 </span>
+            <span>MONTOISON</span>
+         </div>
+         <div>
+            <span class="fr-text--bold">Coordonnées :</span>
+            <div class="section">
+               <div>
+                  <span class="fr-text--bold">Adresse internet :</span>
+                  <a xmlns=""
+                     href="https://www.marches-publics.info/"
+                     target="_blank"
+                     title="Aller sur la page https://www.marches-publics.info/ - nouvelle fenêtre">
+                     <span>https://www.marches-publics.info/</span>
+                  </a>
+               </div>
+            </div>
+         </div>
+         <span class="fr-text--bold">Adresse internet du profil d'acheteur :</span>
+         <a xmlns=""
+            href="https://www.marches-publics.info/"
+            target="_blank"
+            title="Aller sur la page https://www.marches-publics.info/ - nouvelle fenêtre">
+            <span>https://www.marches-publics.info/</span>
+         </a>
+      </div>
+      <div class="fr-h5" id="section_2">Section 2 - Description du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Objet du marché : </span>Maîtrise d'oeuvre pour la Création d'une chaufferie bois et d'un réseau de chaleur local - Commune de Montoison</div>
+         <div>
+            <span class="fr-text--bold">Lieu d'exécution : </span>A proximité des bâtiments concernés<span>,</span>
+            <span>26800 </span>
+            <span>MONTOISON</span>
+         </div>
+      </div>
+      <div class="fr-h5" id="section_3">Section 3 - Caractéristiques du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Caractéristiques principales : </span>Désignation de l'équipe de maîtrise d'oeuvre chargée de la réalisation d'une chaufferie automatique au bois avec réseau de chaleur sur la commune de Montoison dans le département de la Drôme (26) pour alimenter en chauffage :
+- La mairie,- L'école élémentaire
+- L'école maternelle (sans la salle de motricité)
+- L'ensemble :  Cantine /médiathèque
+- La maison du parc
+Le détail des missions confiées au titulaire figure au cahier des charges.
+Les prestations sont réglées par des prix forfaitaires</div>
+         <div>
+            <span class="fr-text--bold">Des variantes seront-elles prises en compte : </span>Oui
+                                </div>
+      </div>
+      <div class="fr-h5" id="section_4">Section 4 - Durée du marché ou délai
+                            d'exécution
+                        </div>
+      <div class="section">
+         <div>à compter du 30/09/2024 et jusqu'au 02/01/2026</div>
+      </div>
+      <div class="fr-h5" id="section_5">Section 5 - Conditions relative au marché
+                        </div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Unité monétaire utilisée, l'euro.</span>
+         </div>
+         <div>
+            <span class="fr-text--bold">Langues pouvant être utilisées dans l'offre ou la
+                                        candidature en complément de celles faites en français :
+                                    </span>français</div>
+      </div>
+      <div class="fr-h5" id="section_7">Section 7 - Critères d'attribution</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Offre économiquement la plus avantageuse appréciée en fonction des
+                        critères énoncés dans le cahier des charges (règlement de la consultation, lettre d'invitation
+                        ou document descriptif)
+                    </span>
+         </div>
+      </div>
+      <div class="fr-h5" id="section_8">Section 8 - Mode de passation du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Type de procédure : </span>procédure adaptée</div>
+      </div>
+      <div class="fr-h5" id="section_10">Section 10 - Conditions de délai</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Date limite de réception des offres : </span>31/07/2024 à 18:00</div>
+         <div>
+            <span class="fr-text--bold">Délai minimum de validité des offres : </span>4 mois à compter de la date limite de réception des offres.</div>
+      </div>
+      <div class="fr-h5" id="section_11">Section 11 - Autres renseignements</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Numéro de référence attribué au marché par le pouvoir
+                                        adjudicateur / l'entité adjudicatrice :
+                                    </span>2024MONTOISON01</div>
+         <div>
+            <span class="fr-text--bold">Renseignements complémentaires : </span>Les dépôts de plis doivent être impérativement remis par voie dématérialisée.
+Pour retrouver cet avis intégral, accéder au DCE, poser des questions à l'acheteur, déposer un pli, allez sur https://www.marches-publics.info
+Code NUTS : FRK23
+Options : OUI
+Le contrat prévoit la possibilité de confier ultérieurement au titulaire du marché un ou plusieurs marchés ayant pour objet la réalisation de prestations similaires.
+Marché périodique : NON
+Calendrier prévisionnel de publication des prochains avis :Le marché s'inscrit dans un projet/programme financé par des fonds communautaires : NON
+Références du ou des projet(s) et / ou programme(s) :Les personnes morales sont tenues d'indiquer les noms et qualifications professionnelles des membres du personnel chargés de la prestation : NON
+Marchés réservés : NON
+La prestation est réservée à une profession particulière : Non
+Instance chargée des procédures de recours : Tribunal administratif de Grenoble, 2 Place de Verdun
+38022 Grenoble
+Tél : 0476429000Mel : greffe.ta-grenoble@juradm.fr
+Précisions concernant le(s) délai(s) d'introduction des recours : Référé précontractuel (art L. 551-1 du CJA) pendant toute la procédure et avant la signature du marché.
+Référé contractuel (article L.551.13 et suivants du CJA) au plus tard le trente et unième jour suivant la publication d'un avis
+d'attribution du marché ou, pour les marchés fondés sur un accord-cadre ou un système d'acquisition dynamique, suivant la
+notification de la conclusion du contrat.
+Recours en contestation de la validité du contrat : tout concurrent évincé de la conclusion d'un contrat administratif est recevable à former devant le juge administratif un recours de pleine juridiction contestant la validité de ce contrat ou de certaines de ses clauses qui en sont divisibles assorti le cas échéant de demandes indemnitaires dans un délai de 2 mois à compter des mesures de publicité appropriées notamment de la publication de l'avis d'attribution.
+Recours indemnitaire dans les 2 mois à compter d'une décision expresse de rejet de la demande préalable (art R. 421-1 et suivants du CJA) ou sans condition de délai dans le cas d'une décision implicite de rejet née du silence gardée par le pouvoir adjudicateur pendant plus de 2 mois à compter de la réception de la demande préalable et sous réserve des dispositions de la loi n º 68-1250 du 31 décembre 1968 relative à la prescription des créances de l'État, les départements, les communes et les établissements publics (prescription quadriennale).
+Service auprès duquel des renseignements peuvent être obtenus sur l'introduction de recours :
+Nom officiel: Tribunal administratif de Grenoble</div>
+      </div>
+      <div class="fr-h5" id="section_14">Section 14 - Informations complémentaires
+                        </div>
+      <div class="section"/>
+      <hr/>
+      <div>
+         <span class="fr-text--bold">Date d'envoi du présent avis à la publication : </span>20/06/2024</div>
+   </body>
+</html>
+]]></HTML>
+   <HTMLSYNTHESE><![CDATA[<!DOCTYPE HTML>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   </head>
+   <body>
+      <h3>L’essentiel du marché</h3>
+      <ul>
+         <li><span class="fr-text--bold">Nom de l'organisme acheteur : </span>MAIRIE DE MONTOISON</li>
+         <li><span class="fr-text--bold">A l'attention de : </span>MAIRIE DE MONTOISON&nbsp;</li>
+         <li><span class="fr-text--bold">Adresse : </span>Grande Rue,&nbsp;26800,&nbsp;MONTOISON&nbsp;</li>
+         <li><span class="fr-text--bold">Adresse internet : </span><a href="https://www.marches-publics.info/" target="_blank" title="Aller sur la page https://www.marches-publics.info/ - nouvelle fenêtre"><span>https://www.marches-publics.info/</span></a></li>
+         <li><span class="fr-text--bold">Adresse internet du profil d'acheteur : </span><a href="https://www.marches-publics.info/" target="_blank" title="Aller sur la page https://www.marches-publics.info/ - nouvelle fenêtre"><span>https://www.marches-publics.info/</span></a></li>
+         <li><span class="fr-text--bold">Objet du marché : </span>Maîtrise d'oeuvre pour la Création d'une chaufferie bois et d'un réseau de chaleur
+            local - Commune de Montoison</li>
+         <li><span class="fr-text--bold">Caractéristiques principales : </span>Désignation de l'équipe de maîtrise d'oeuvre chargée de la réalisation d'une chaufferie
+            automatique au bois avec réseau de chaleur sur la commune de Montoison dans le département
+            de la Drôme (26) pour alimenter en chauffage : - La mairie,- L'école élémentaire -
+            L'école maternelle (sans la salle de motricité) - L'ensemble : Cantine /médiathèque
+            - La maison du parc Le détail des missions confiées au titulaire figure au cahier
+            des charges. Les prestations sont réglées par des prix forfaitaires</li>
+      </ul>
+      <h3>Informations pratiques</h3>
+      <ul>
+         <li><span class="fr-text--bold">Date limite de réception des offres : </span>31/07/2024 à 18:00</li>
+         <li><span class="fr-text--bold">Délai minimum de validité des offres : </span>4 mois</li>
+         <li><span class="fr-text--bold">Critères d'attribution : </span>Offre économiquement la plus avantageuse appréciée en fonction des critères énoncés
+            dans le cahier des charges (règlement de la consultation, lettre d'invitation ou document
+            descriptif).</li>
+      </ul>
+   </body>
+</html>]]></HTMLSYNTHESE>
+</jo:ann>
+

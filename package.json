@@ -1,0 +1,26 @@
+{
+  "name": "tengo-backend-case",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tengo backend take-home case: ingest tender notices from two sources into Postgres",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "db:up": "docker compose up -d --wait",
+    "db:down": "docker compose down -v",
+    "ingest": "tsx src/ingest.ts",
+    "start": "tsx src/server.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.15.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

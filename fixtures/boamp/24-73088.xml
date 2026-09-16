@@ -1,0 +1,336 @@
+<jo:ann xmlns:jo="http://boamp.journal-officiel.gouv.fr/XML/3.2.5">
+   <DONNEES>
+      <MAPA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+         <organisme>
+            <correspondantPRM>
+               <civilite>MME</civilite>
+               <nom>BOUQUIN</nom>
+               <pren>Christine</pren>
+               <fonc>Présidente du Département</fonc>
+            </correspondantPRM>
+            <acheteurPublic>Département du Doubs</acheteurPublic>
+            <adr>
+               <voie>
+                  <nomvoie>Hôtel du Département, 7 avenue de la Gare d'Eau</nomvoie>
+               </voie>
+               <cp>25031</cp>
+               <ville>BESANCON Cedex</ville>
+            </adr>
+            <coord>
+               <tel>0381258125</tel>
+               <fax>0381258101</fax>
+               <mel>correspondre@aws-france.com</mel>
+               <url>https://www.doubs.fr/</url>
+            </coord>
+            <urlProfilAcheteur>https://www.marches-publics.info</urlProfilAcheteur>
+            <classificationOrganisme>3</classificationOrganisme>
+         </organisme>
+         <initial>
+            <natureMarche>
+               <fournitures/>
+            </natureMarche>
+            <description>
+               <objet>FOURNITURE DE CAPTEURS CO2 POUR LES COLLEGES PUBLICS DU DEPARTEMENT DU DOUBS</objet>
+               <lieuLivraison>
+                  <voie>
+                     <nomvoie>DEPARTEMENT DU DOUBS3 bis rue Gay Lussac</nomvoie>
+                  </voie>
+                  <cp>25000</cp>
+                  <ville>BESANCON</ville>
+               </lieuLivraison>
+            </description>
+            <caracteristiques>
+               <variantes>
+                  <non/>
+               </variantes>
+               <principales>&lt;br/&gt;Les prestations sont réglées par des prix forfaitaires.&lt;br/&gt;&lt;br/&gt;</principales>
+            </caracteristiques>
+            <conditions>
+               <euro/>
+               <langue>
+                  <langEC>fr</langEC>
+               </langue>
+            </conditions>
+            <criteres>
+               <critereCDC/>
+            </criteres>
+            <procedure>
+               <procedureAdaptee/>
+            </procedure>
+            <delais>
+               <receptionOffres>2024-07-15T12:00:00</receptionOffres>
+               <validite>
+                  <nbMois>4</nbMois>
+               </validite>
+            </delais>
+            <renseignements>
+               <idMarche>2024DPL0030</idMarche>
+               <rensgComplt>Les dépôts de plis doivent être impérativement remis par voie dématérialisée.
+Pour retrouver cet avis intégral, accéder au DCE, poser des questions à l'acheteur, déposer un pli, allez sur https://www.marches-publics.info
+Type de marché de Fournitures :Code NUTS : FRC21
+Marché périodique : NON
+Calendrier prévisionnel de publication des prochains avis :Le marché s'inscrit dans un projet/programme financé par des fonds communautaires : NON
+Références du ou des projet(s) et / ou programme(s) :Marchés réservés : NON
+L'execution du marché est soumise à d'autres conditions particulières :Budget départemental : ressources propres
+Instance chargée des procédures de recours : Tribunal administratif de Besançon, 30, rue Charles Nodier
+25044 BesançonCedex 3
+Tél : 0381826000 Fax : 0381826001Mel : greffe.ta-besancon@juradm.fr
+Précisions concernant le(s) délai(s) d'introduction des recours : Référé pré-contractuel prévu aux articles L.551-1 à L.551-12 du Code de justice administrative (CJA), et pouvant être exercé avant la signature du contrat. Référé contractuel prévu aux articles L.551-13 à L.551-23 du CJA, et pouvant être exercé dans les délais prévus à l'article R. 551-7 du CJA. Recours pour excès de pouvoir contre une décision administrative prévu aux articles R. 421-1 à R. 421-7 du CJA, et pouvant être exercé dans les 2 mois suivant la notification ou publication de la décision de l'organisme (le recours ne peut plus, toutefois, être exercé après la signature du contrat). Recours de pleine juridiction ouvert aux tiers justifiant d'un intérêt lésé, et pouvant être exercé dans les deux mois suivant la date à laquelle la conclusion du contrat est rendue publique</rensgComplt>
+            </renseignements>
+            <marcheUnique/>
+            <infosSup>
+       </infosSup>
+         </initial>
+      </MAPA>
+   </DONNEES>
+   <GESTION>
+      <REFERENCE>
+         <IDWEB>24-73088</IDWEB>
+         <TYPE_AVIS>
+            <FAMILLE>
+               <MAPA/>
+            </FAMILLE>
+            <PERIMETRE>
+               <MAPA/>
+            </PERIMETRE>
+            <NATURE>
+               <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+               <INITIAL/>
+            </STATUT>
+         </TYPE_AVIS>
+      </REFERENCE>
+      <INDEXATION>
+         <SCHEMA>3.2.5</SCHEMA>
+         <NOMORGANISME>Département du Doubs</NOMORGANISME>
+         <TYPE_PROCEDURE>
+            <PROCEDURE_ADAPTE/>
+         </TYPE_PROCEDURE>
+         <DATE_PUBLICATION>2024-06-24</DATE_PUBLICATION>
+         <DATE_LIMITE_REPONSE>2024-07-15T12:00:00</DATE_LIMITE_REPONSE>
+         <DATE_FIN_DIFFUSION>2024-07-15</DATE_FIN_DIFFUSION>
+         <DESCRIPTEURS>
+            <DESCRIPTEUR>
+               <CODE>209</CODE>
+               <LIBELLE>Matériel de sécurité</LIBELLE>
+            </DESCRIPTEUR>
+         </DESCRIPTEURS>
+         <NATURE_MARCHE>
+            <FOURNITURES/>
+         </NATURE_MARCHE>
+         <DEP_PUBLICATION>25</DEP_PUBLICATION>
+         <RESUME_OBJET>FOURNITURE DE CAPTEURS CO2 POUR LES COLLEGES PUBLICS DU DEPARTEMENT DU DOUBS</RESUME_OBJET>
+      </INDEXATION>
+   </GESTION>
+   <HTML><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="FR">
+   <head>
+      <title>Avis de marché - Avis n° 24-73088 du 24/06/2024</title>
+      <meta name="subject" content="Avis de marché"/>
+      <meta name="author"
+            content="Direction de l’information légale et administrative (DILA)"/>
+      <meta name="description"
+            content="Avis de marché - Avis n° 24-73088 du 24/06/2024 sur le site Boamp.fr"/>
+      <style type="text/css">
+                body {
+                    font-size: 1rem;
+                    line-height: 1.5rem;
+                }
+                .fr-h4 {
+                    font-weight: 700 !important;
+                    margin: 0.5rem 0 0.5rem 0rem !important;
+                    font-size: 1.4rem !important;
+                    line-height: 2rem !important;
+                }
+                .fr-h5 {
+                    font-weight: 700 !important;
+                    margin: 0.5rem 0 0.5rem 0rem !important;
+                    font-size: 1.3rem !important;
+                    line-height: 2rem !important;
+                }
+            
+        .section {
+            padding: 6px 6px 6px 36px;
+        }
+        .fr-text--bold {
+            font-weight: bold;
+        }
+        .center {
+            text-align: center;
+        }
+        .list_style_none {
+            list-style: none;
+        }
+    </style>
+   </head>
+   <body>
+      <div class="center">
+         <div class="fr-h4" id="doc_titre">Avis de marché</div>
+      </div>
+      <div>Département(s) de publication : <span>
+            <strong>25</strong>
+         </span>
+      </div>
+      <div>
+         <span>Annonce n°</span>
+         <strong>24-73088</strong>
+      </div>
+      <div>Fournitures</div>
+      <hr/>
+      <div class="fr-h5" id="section_1">Section 1 - Identification de l'acheteur</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Nom et adresse officiels de l'organisme acheteur : </span>Département du Doubs</div>
+         <div>
+            <span class="fr-text--bold">Correspondant : </span>MME BOUQUIN Christine<span>, Présidente du Département</span>
+         </div>
+         <div>
+            <span class="fr-text--bold">Adresse : </span>Hôtel du Département, 7 avenue de la Gare d'Eau<span>,</span>
+            <span> 25031 </span>
+            <span>BESANCON Cedex</span>
+         </div>
+         <div>
+            <span class="fr-text--bold">Coordonnées :</span>
+            <div class="section">
+               <div>
+                  <span class="fr-text--bold">Téléphone :</span>
+                  <span>0381258125</span>
+               </div>
+               <div>
+                  <span class="fr-text--bold">Télécopieur :</span>
+                  <span>0381258101</span>
+               </div>
+               <div>
+                  <span class="fr-text--bold">Courriel :</span>
+                  <span>correspondre@aws-france.com</span>
+               </div>
+               <div>
+                  <span class="fr-text--bold">Adresse internet :</span>
+                  <a xmlns=""
+                     href="https://www.doubs.fr/"
+                     target="_blank"
+                     title="Aller sur la page https://www.doubs.fr/ - nouvelle fenêtre">
+                     <span>https://www.doubs.fr/</span>
+                  </a>
+               </div>
+            </div>
+         </div>
+         <span class="fr-text--bold">Adresse internet du profil d'acheteur :</span>
+         <a xmlns=""
+            href="https://www.marches-publics.info"
+            target="_blank"
+            title="Aller sur la page https://www.marches-publics.info - nouvelle fenêtre">
+            <span>https://www.marches-publics.info</span>
+         </a>
+      </div>
+      <div class="fr-h5" id="section_2">Section 2 - Description du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Objet du marché : </span>FOURNITURE DE CAPTEURS CO2 POUR LES COLLEGES PUBLICS DU DEPARTEMENT DU DOUBS</div>
+         <div>
+            <span class="fr-text--bold">Lieu de livraison : </span>DEPARTEMENT DU DOUBS3 bis rue Gay Lussac<span>,</span>
+            <span>25000 </span>
+            <span>BESANCON</span>
+         </div>
+      </div>
+      <div class="fr-h5" id="section_3">Section 3 - Caractéristiques du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Caractéristiques principales : </span>&lt;br/&gt;Les prestations sont réglées par des prix forfaitaires.&lt;br/&gt;&lt;br/&gt;</div>
+         <div>
+            <span class="fr-text--bold">Refus des variantes.</span>
+         </div>
+      </div>
+      <div class="fr-h5" id="section_5">Section 5 - Conditions relative au marché
+                        </div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Unité monétaire utilisée, l'euro.</span>
+         </div>
+         <div>
+            <span class="fr-text--bold">Langues pouvant être utilisées dans l'offre ou la
+                                        candidature en complément de celles faites en français :
+                                    </span>français</div>
+      </div>
+      <div class="fr-h5" id="section_7">Section 7 - Critères d'attribution</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Offre économiquement la plus avantageuse appréciée en fonction des
+                        critères énoncés dans le cahier des charges (règlement de la consultation, lettre d'invitation
+                        ou document descriptif)
+                    </span>
+         </div>
+      </div>
+      <div class="fr-h5" id="section_8">Section 8 - Mode de passation du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Type de procédure : </span>procédure adaptée</div>
+      </div>
+      <div class="fr-h5" id="section_10">Section 10 - Conditions de délai</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Date limite de réception des offres : </span>15/07/2024 à 12:00</div>
+         <div>
+            <span class="fr-text--bold">Délai minimum de validité des offres : </span>4 mois à compter de la date limite de réception des offres.</div>
+      </div>
+      <div class="fr-h5" id="section_11">Section 11 - Autres renseignements</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Numéro de référence attribué au marché par le pouvoir
+                                        adjudicateur / l'entité adjudicatrice :
+                                    </span>2024DPL0030</div>
+         <div>
+            <span class="fr-text--bold">Renseignements complémentaires : </span>Les dépôts de plis doivent être impérativement remis par voie dématérialisée.
+Pour retrouver cet avis intégral, accéder au DCE, poser des questions à l'acheteur, déposer un pli, allez sur https://www.marches-publics.info
+Type de marché de Fournitures :Code NUTS : FRC21
+Marché périodique : NON
+Calendrier prévisionnel de publication des prochains avis :Le marché s'inscrit dans un projet/programme financé par des fonds communautaires : NON
+Références du ou des projet(s) et / ou programme(s) :Marchés réservés : NON
+L'execution du marché est soumise à d'autres conditions particulières :Budget départemental : ressources propres
+Instance chargée des procédures de recours : Tribunal administratif de Besançon, 30, rue Charles Nodier
+25044 BesançonCedex 3
+Tél : 0381826000 Fax : 0381826001Mel : greffe.ta-besancon@juradm.fr
+Précisions concernant le(s) délai(s) d'introduction des recours : Référé pré-contractuel prévu aux articles L.551-1 à L.551-12 du Code de justice administrative (CJA), et pouvant être exercé avant la signature du contrat. Référé contractuel prévu aux articles L.551-13 à L.551-23 du CJA, et pouvant être exercé dans les délais prévus à l'article R. 551-7 du CJA. Recours pour excès de pouvoir contre une décision administrative prévu aux articles R. 421-1 à R. 421-7 du CJA, et pouvant être exercé dans les 2 mois suivant la notification ou publication de la décision de l'organisme (le recours ne peut plus, toutefois, être exercé après la signature du contrat). Recours de pleine juridiction ouvert aux tiers justifiant d'un intérêt lésé, et pouvant être exercé dans les deux mois suivant la date à laquelle la conclusion du contrat est rendue publique</div>
+      </div>
+      <div class="fr-h5" id="section_14">Section 14 - Informations complémentaires
+                        </div>
+      <div class="section"/>
+      <hr/>
+      <div>
+         <span class="fr-text--bold">Date d'envoi du présent avis à la publication : </span>24/06/2024</div>
+   </body>
+</html>
+]]></HTML>
+   <HTMLSYNTHESE><![CDATA[<!DOCTYPE HTML>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   </head>
+   <body>
+      <h3>L’essentiel du marché</h3>
+      <ul>
+         <li><span class="fr-text--bold">Nom de l'organisme acheteur : </span>Département du Doubs</li>
+         <li><span class="fr-text--bold">A l'attention de : </span>MME&nbsp;Christine&nbsp;BOUQUIN&nbsp;Présidente du Département</li>
+         <li><span class="fr-text--bold">Adresse : </span>Hôtel du Département, 7 avenue de la Gare d'Eau,&nbsp;25031,&nbsp;BESANCON Cedex&nbsp;</li>
+         <li><span class="fr-text--bold">Téléphone : </span>0381258125</li>
+         <li><span class="fr-text--bold">Courriel : </span>correspondre@aws-france.com</li>
+         <li><span class="fr-text--bold">Adresse internet : </span><a href="https://www.doubs.fr/" target="_blank" title="Aller sur la page https://www.doubs.fr/ - nouvelle fenêtre"><span>https://www.doubs.fr/</span></a></li>
+         <li><span class="fr-text--bold">Adresse internet du profil d'acheteur : </span><a href="https://www.marches-publics.info" target="_blank" title="Aller sur la page https://www.marches-publics.info - nouvelle fenêtre"><span>https://www.marches-publics.info</span></a></li>
+         <li><span class="fr-text--bold">Objet du marché : </span>FOURNITURE DE CAPTEURS CO2 POUR LES COLLEGES PUBLICS DU DEPARTEMENT DU DOUBS</li>
+         <li><span class="fr-text--bold">Caractéristiques principales : </span>&lt;br/&gt;Les prestations sont réglées par des prix forfaitaires.&lt;br/&gt;&lt;br/&gt;</li>
+      </ul>
+      <h3>Informations pratiques</h3>
+      <ul>
+         <li><span class="fr-text--bold">Date limite de réception des offres : </span>15/07/2024 à 12:00</li>
+         <li><span class="fr-text--bold">Délai minimum de validité des offres : </span>4 mois</li>
+         <li><span class="fr-text--bold">Critères d'attribution : </span>Offre économiquement la plus avantageuse appréciée en fonction des critères énoncés
+            dans le cahier des charges (règlement de la consultation, lettre d'invitation ou document
+            descriptif).</li>
+      </ul>
+   </body>
+</html>]]></HTMLSYNTHESE>
+</jo:ann>
+

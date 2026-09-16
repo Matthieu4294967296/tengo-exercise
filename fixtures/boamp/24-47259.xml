@@ -1,0 +1,516 @@
+<jo:ann xmlns:jo="http://boamp.journal-officiel.gouv.fr/XML/3.2.5">
+   <DONNEES>
+      <MAPA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+         <organisme>
+            <correspondantPRM>
+               <civilite>MME</civilite>
+               <nom>BRENAC</nom>
+               <pren>Myriam</pren>
+               <fonc>Maire</fonc>
+            </correspondantPRM>
+            <acheteurPublic>Commune de Chavenay</acheteurPublic>
+            <adr>
+               <voie>
+                  <nomvoie>Place de l'église</nomvoie>
+               </voie>
+               <cp>78450</cp>
+               <ville>CHAVENAY</ville>
+            </adr>
+            <coord>
+               <tel>0130543170</tel>
+               <mel>mairie@chavenay.fr</mel>
+               <url>https://www.marches-publics.info</url>
+            </coord>
+            <urlProfilAcheteur>https://www.marches-publics.info</urlProfilAcheteur>
+            <classificationOrganisme>4</classificationOrganisme>
+         </organisme>
+         <initial>
+            <natureMarche>
+               <fournitures/>
+            </natureMarche>
+            <description>
+               <objet>Accord-cadre relatif à la fourniture de produits d'entretien, d'hygiène et de petits équipements pour la commune de CHAVENAY (78)</objet>
+               <lieuLivraison>
+                  <voie>
+                     <nomvoie>Commune de Chavenay</nomvoie>
+                  </voie>
+                  <cp>78450</cp>
+                  <ville>CHAVENAY</ville>
+               </lieuLivraison>
+            </description>
+            <caracteristiques>
+               <principales>Le présent accord-cadre est passé selon une procédure adaptée en application des articles L2123-1 et R2123-1 1°du code de la commande publique.
+Le marché est un accord-cadre, mono-attributaire, à bons de commandes au sens de l'article L2125-1-1° du Code de la commande publique, qui s'exécute selon les dispositions des articles R2162-1 à R2162-6 par l'émission de bons de commandes en application des articles R2162-13 et R2162-14 de ce même code.
+Le marché n'est pas décomposé en tranches.
+Le présent marché ne comporte pas de prestation supplémentaire éventuelle suivante.
+Les candidats sont tenus de répondre à la solution de base décrite dans le dossier de marché joint. En application de l'article R2151-8-2° du code de la commande publique, l'acheteur refuse la présentation d'offres comportant une variante</principales>
+               <quantites>La présente consultation a pour objet un accord-cadre à bons de commandes de fourniture, ayant pour objet la fourniture de produits d'entretien, d'hygiène et de petits équipements pour la commune de CHAVENAY (78).
+Le marché couvre les prestations suivantes :
+- conseil,
+- prise de commande,
+- livraison sur site,
+- la garantie,
+- le service après-vente : suivi de livraison, échange et reprise, suivie des anomalies.
+Les prestations s'entendent sans montant minimum et avec les montants maximum annuels suivants: - Lot n°1: "Produits d'entretien, d'hygiène": 12 000  euros  HT;
+- Lot n°2: "Petits matériels": 1 500  euros  HT.
+L'accord-cadre est conclu pour une durée ferme de 12 mois à compter de sa notification. L'accord-cadre est renouvelable tacitement trois (3) fois par période de 12 mois sans excéder 4 ans</quantites>
+            </caracteristiques>
+            <conditions>
+               <garanties>Modalités essentielles de financement : fonds propres</garanties>
+               <modFinancement>Le mode de règlement proposé est le virement administratif. Conformément aux règles de la comptabilité publique, le délai maximum de paiement est de 30 jours. Le taux des intérêts moratoires est celui de l'intérêt légal en vigueur à la date à laquelle les intérêts moratoires ont commencé à courir, augmenté de huit points</modFinancement>
+               <euro/>
+               <langue>
+                  <langEC>fr</langEC>
+               </langue>
+            </conditions>
+            <justifications>
+               <chiffresAffaires/>
+               <risquesProfessionels/>
+               <listeFournituresServices/>
+               <DC1/>
+               <DC2/>
+            </justifications>
+            <criteres>
+               <criterePondere>
+                  <criterePCT>60</criterePCT>
+                  <critere>Prix</critere>
+               </criterePondere>
+               <criterePondere>
+                  <criterePCT>30</criterePCT>
+                  <critere>Valeur technique de l'offre</critere>
+               </criterePondere>
+               <criterePondere>
+                  <criterePCT>10</criterePCT>
+                  <critere>Pertinence des actions mises en place par le candidat afin d'inscrire les prestations du marché dans une démarche environnementale</critere>
+               </criterePondere>
+            </criteres>
+            <procedure>
+               <procedureAdaptee/>
+            </procedure>
+            <delais>
+               <receptionOffres>2024-05-17T12:00:00</receptionOffres>
+               <validite>
+                  <nbJours>120</nbJours>
+               </validite>
+            </delais>
+            <renseignements>
+               <idMarche>202401</idMarche>
+               <rensgComplt>Les dépôts de plis doivent être impérativement remis par voie dématérialisée.
+Cette consultation bénéficie du Service DUME.
+Pour retrouver cet avis intégral, accéder au DCE, poser des questions à l'acheteur, déposer un pli, allez sur https://www.marches-publics.info
+Type de marché de Fournitures :Code NUTS : FR103
+Lot 1 - Produits d'entretien, d'hygiène
+Lot 2 - Petits matériels
+Marchés réservés : NON
+Instance chargée des procédures de recours : Tribunal administratif de Versailles, 56 avenue de Saint Cloud
+78011 Versailles
+Tél : 0139205400 Fax : 0139205487Mel : greffe.ta-versailles@juradm.fr
+Organe chargé des procédures de médiation : Comité consultatif inter-départemental de règlement amiable des différends ou litiges, Préfecture de la Région Ile-de-France, 5, Rue Leblanc
+75911 PARIS Cedex
+Tél : 0182524267 Fax : 0182524295Mel : ccira@paris-idf.gouv.fr
+Précisions concernant le(s) délai(s) d'introduction des recours : Précisions concernant le(s) délai(s) d'introduction des recours :
+Référé pré-contractuel prévu aux articles L.551-1 à L.551-12 du Code de justice administrative (CJA), et pouvant être exercé avant la signature du contrat. Référé contractuel prévu aux articles L.551-13 à L.551-23 du CJA, et pouvant être exercé dans les délais prévus à l'article R. 551-7 du CJA. Recours pour excès de pouvoir contre une décision administrative prévu aux articles R. 421-1 à R. 421-7 du CJA, et pouvant être exercé dans les 2 mois suivant la notification ou publication de la décision de l'organisme (le recours ne peut plus, toutefois, être exercé après la signature du contrat). Recours de pleine juridiction ouvert aux tiers justifiant d'un intérêt lésé, et pouvant être exercé dans les deux mois suivant la date à laquelle la conclusion du contrat est rendue publique.
+L'acheteur prévoir de négocier, mais se réserve la possibilité d'attribuer le marché sur la base des offres initiales sans négociation en application de l'article R2123-5 du code de la commande publique. Si l'acheteur met en oeuvre les négociations, il envisage de les mener avec les 3 candidats ayant remis les meilleures offres.
+Le candidat devra impérativement être venu sur place visiter le site avant la présentation de son offre.
+Les candidats pourront adresser leurs questions via la plateforme AWS à l'adresse suivante : https://www.marches-publics.infos/ au plus tard 10 jours calendaires avant la date limite de remise des offres. L'acheteur se réserve le droit d'apporter au plus tard 6 jours avant la date limite fixée pour la réception des offres, des modifications de détail au dossier de consultation</rensgComplt>
+            </renseignements>
+            <lots>
+               <plusieursLot/>
+               <lot>
+                  <numLot>1</numLot>
+                  <description>Produits d'entretien, d'hygiène
+Produits d'entretien, d'hygiène</description>
+               </lot>
+               <lot>
+                  <numLot>2</numLot>
+                  <description>Petits matériels
+Petits matériels</description>
+               </lot>
+            </lots>
+            <infosSup>
+       </infosSup>
+         </initial>
+      </MAPA>
+   </DONNEES>
+   <GESTION>
+      <REFERENCE>
+         <IDWEB>24-47259</IDWEB>
+         <TYPE_AVIS>
+            <FAMILLE>
+               <MAPA/>
+            </FAMILLE>
+            <PERIMETRE>
+               <MAPA/>
+            </PERIMETRE>
+            <NATURE>
+               <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+               <INITIAL/>
+            </STATUT>
+         </TYPE_AVIS>
+      </REFERENCE>
+      <INDEXATION>
+         <SCHEMA>3.2.5</SCHEMA>
+         <NOMORGANISME>Commune de Chavenay</NOMORGANISME>
+         <TYPE_PROCEDURE>
+            <PROCEDURE_ADAPTE/>
+         </TYPE_PROCEDURE>
+         <DATE_PUBLICATION>2024-04-19</DATE_PUBLICATION>
+         <DATE_LIMITE_REPONSE>2024-05-17T12:00:00</DATE_LIMITE_REPONSE>
+         <DATE_FIN_DIFFUSION>2024-05-17</DATE_FIN_DIFFUSION>
+         <DESCRIPTEURS>
+            <DESCRIPTEUR>
+               <CODE>153</CODE>
+               <LIBELLE>Hygiène (articles)</LIBELLE>
+            </DESCRIPTEUR>
+            <DESCRIPTEUR>
+               <CODE>278</CODE>
+               <LIBELLE>Produits d'entretien</LIBELLE>
+            </DESCRIPTEUR>
+         </DESCRIPTEURS>
+         <NATURE_MARCHE>
+            <FOURNITURES/>
+         </NATURE_MARCHE>
+         <DEP_PUBLICATION>78</DEP_PUBLICATION>
+         <RESUME_OBJET>Accord-cadre relatif à la fourniture de produits d'entretien, d'hygiène et de petits équipements pour la commune de CHAVENAY (78)</RESUME_OBJET>
+      </INDEXATION>
+   </GESTION>
+   <HTML><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="FR">
+   <head>
+      <title>Avis de marché - Avis n° 24-47259 du 19/04/2024</title>
+      <meta name="subject" content="Avis de marché"/>
+      <meta name="author"
+            content="Direction de l’information légale et administrative (DILA)"/>
+      <meta name="description"
+            content="Avis de marché - Avis n° 24-47259 du 19/04/2024 sur le site Boamp.fr"/>
+      <style type="text/css">
+                body {
+                    font-size: 1rem;
+                    line-height: 1.5rem;
+                }
+                .fr-h4 {
+                    font-weight: 700 !important;
+                    margin: 0.5rem 0 0.5rem 0rem !important;
+                    font-size: 1.4rem !important;
+                    line-height: 2rem !important;
+                }
+                .fr-h5 {
+                    font-weight: 700 !important;
+                    margin: 0.5rem 0 0.5rem 0rem !important;
+                    font-size: 1.3rem !important;
+                    line-height: 2rem !important;
+                }
+            
+        .section {
+            padding: 6px 6px 6px 36px;
+        }
+        .fr-text--bold {
+            font-weight: bold;
+        }
+        .center {
+            text-align: center;
+        }
+        .list_style_none {
+            list-style: none;
+        }
+    </style>
+   </head>
+   <body>
+      <div class="center">
+         <div class="fr-h4" id="doc_titre">Avis de marché</div>
+      </div>
+      <div>Département(s) de publication : <span>
+            <strong>78</strong>
+         </span>
+      </div>
+      <div>
+         <span>Annonce n°</span>
+         <strong>24-47259</strong>
+      </div>
+      <div>Fournitures</div>
+      <hr/>
+      <div class="fr-h5" id="section_1">Section 1 - Identification de l'acheteur</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Nom et adresse officiels de l'organisme acheteur : </span>Commune de Chavenay</div>
+         <div>
+            <span class="fr-text--bold">Correspondant : </span>MME BRENAC Myriam<span>, Maire</span>
+         </div>
+         <div>
+            <span class="fr-text--bold">Adresse : </span>Place de l'église<span>,</span>
+            <span> 78450 </span>
+            <span>CHAVENAY</span>
+         </div>
+         <div>
+            <span class="fr-text--bold">Coordonnées :</span>
+            <div class="section">
+               <div>
+                  <span class="fr-text--bold">Téléphone :</span>
+                  <span>0130543170</span>
+               </div>
+               <div>
+                  <span class="fr-text--bold">Courriel :</span>
+                  <span>mairie@chavenay.fr</span>
+               </div>
+               <div>
+                  <span class="fr-text--bold">Adresse internet :</span>
+                  <a xmlns=""
+                     href="https://www.marches-publics.info"
+                     target="_blank"
+                     title="Aller sur la page https://www.marches-publics.info - nouvelle fenêtre">
+                     <span>https://www.marches-publics.info</span>
+                  </a>
+               </div>
+            </div>
+         </div>
+         <span class="fr-text--bold">Adresse internet du profil d'acheteur :</span>
+         <a xmlns=""
+            href="https://www.marches-publics.info"
+            target="_blank"
+            title="Aller sur la page https://www.marches-publics.info - nouvelle fenêtre">
+            <span>https://www.marches-publics.info</span>
+         </a>
+      </div>
+      <div class="fr-h5" id="section_2">Section 2 - Description du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Objet du marché : </span>Accord-cadre relatif à la fourniture de produits d'entretien, d'hygiène et de petits équipements pour la commune de CHAVENAY (78)</div>
+         <div>
+            <span class="fr-text--bold">Lieu de livraison : </span>Commune de Chavenay<span>,</span>
+            <span>78450 </span>
+            <span>CHAVENAY</span>
+         </div>
+      </div>
+      <div class="fr-h5" id="section_3">Section 3 - Caractéristiques du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Caractéristiques principales : </span>Le présent accord-cadre est passé selon une procédure adaptée en application des articles L2123-1 et R2123-1 1°du code de la commande publique.
+Le marché est un accord-cadre, mono-attributaire, à bons de commandes au sens de l'article L2125-1-1° du Code de la commande publique, qui s'exécute selon les dispositions des articles R2162-1 à R2162-6 par l'émission de bons de commandes en application des articles R2162-13 et R2162-14 de ce même code.
+Le marché n'est pas décomposé en tranches.
+Le présent marché ne comporte pas de prestation supplémentaire éventuelle suivante.
+Les candidats sont tenus de répondre à la solution de base décrite dans le dossier de marché joint. En application de l'article R2151-8-2° du code de la commande publique, l'acheteur refuse la présentation d'offres comportant une variante</div>
+         <div>
+            <span class="fr-text--bold">Quantités (fournitures et services), nature et étendue
+                                        (travaux) :
+                                    </span>La présente consultation a pour objet un accord-cadre à bons de commandes de fourniture, ayant pour objet la fourniture de produits d'entretien, d'hygiène et de petits équipements pour la commune de CHAVENAY (78).
+Le marché couvre les prestations suivantes :
+- conseil,
+- prise de commande,
+- livraison sur site,
+- la garantie,
+- le service après-vente : suivi de livraison, échange et reprise, suivie des anomalies.
+Les prestations s'entendent sans montant minimum et avec les montants maximum annuels suivants: - Lot n°1: "Produits d'entretien, d'hygiène": 12 000  euros  HT;
+- Lot n°2: "Petits matériels": 1 500  euros  HT.
+L'accord-cadre est conclu pour une durée ferme de 12 mois à compter de sa notification. L'accord-cadre est renouvelable tacitement trois (3) fois par période de 12 mois sans excéder 4 ans</div>
+      </div>
+      <div class="fr-h5" id="section_5">Section 5 - Conditions relative au marché
+                        </div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Cautionnement et garanties exigés : </span>Modalités essentielles de financement : fonds propres</div>
+         <div>
+            <span class="fr-text--bold">Modalités essentielles de financement et de paiement
+                                        et/ou références aux textes qui les réglementent :
+                                    </span>Le mode de règlement proposé est le virement administratif. Conformément aux règles de la comptabilité publique, le délai maximum de paiement est de 30 jours. Le taux des intérêts moratoires est celui de l'intérêt légal en vigueur à la date à laquelle les intérêts moratoires ont commencé à courir, augmenté de huit points</div>
+         <div>
+            <span class="fr-text--bold">Unité monétaire utilisée, l'euro.</span>
+         </div>
+         <div>
+            <span class="fr-text--bold">Langues pouvant être utilisées dans l'offre ou la
+                                        candidature en complément de celles faites en français :
+                                    </span>français</div>
+      </div>
+      <div class="fr-h5" id="section_6">Section 6 - Justifications à produire quant
+                            aux qualités et capacités du candidat
+                        </div>
+      <div class="section">
+         <span class="fr-text--bold">
+                                Documents à produire obligatoirement par le candidat, à l'appui de sa candidature :
+                            </span>
+         <ul/>
+         <span class="fr-text--bold">
+                                Documents à produire à l'appui des candidatures par le candidat, au choix de l'acheteur
+                                public :
+                            </span>
+         <ul>
+            <li>Déclaration concernant le chiffre d'affaires global et le chiffre d'affaires
+                                        concernant les fournitures, services ou travaux objet du marché, réalisés au
+                                        cours des trois derniers exercices disponibles
+                                    </li>
+            <li>Déclaration appropriée de banques ou preuve d'une assurance pour les risques
+                                        professionnels
+                                    </li>
+            <li>Présentation d'une liste des principales fournitures ou des principaux services
+                                        effectués au cours des trois dernières années, indiquant le montant, la date et
+                                        le destinataire public ou privé. Les livraisons et les prestations de services
+                                        sont prouvées par des attestations du destinataire ou, à défaut, par une
+                                        déclaration de l'opérateur économique
+                                    </li>
+            <li>Formulaire DC1, Lettre de candidature - Habilitation du mandataire par ses
+                                        co-traitants (disponible à l'adresse suivante :
+                                        http://www.economie.gouv.fr/daj/formulaires-declaration-du-candidat)
+                                    </li>
+            <li>Formulaire DC2, Déclaration du candidat individuel ou du membre du groupement
+                                        (disponible à l'adresse suivante :
+                                        http://www.economie.gouv.fr/daj/formulaires-declaration-du-candidat)
+                                    </li>
+         </ul>
+         <span class="fr-text--bold">
+                                Documents à produire obligatoirement par l'attributaire, avant la signature et la
+                                notification du marché public ou de l'accord-cadre (formulaire NOTI1) :
+                            </span>
+         <ul/>
+      </div>
+      <div class="fr-h5" id="section_7">Section 7 - Critères d'attribution</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Offre économiquement la plus avantageuse appréciée en fonction des
+                        critères énoncés ci-dessous avec leur pondération :
+                    </span>
+         </div>
+         <ul>
+            <li>Prix : 60%
+                        </li>
+            <li>Valeur technique de l'offre : 30%
+                        </li>
+            <li>Pertinence des actions mises en place par le candidat afin d'inscrire les prestations du marché dans une démarche environnementale : 10%
+                        </li>
+         </ul>
+      </div>
+      <div class="fr-h5" id="section_8">Section 8 - Mode de passation du marché</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Type de procédure : </span>procédure adaptée</div>
+      </div>
+      <div class="fr-h5" id="section_10">Section 10 - Conditions de délai</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Date limite de réception des offres : </span>17/05/2024 à 12:00</div>
+         <div>
+            <span class="fr-text--bold">Délai minimum de validité des offres : </span>120 jours à compter de la date limite de réception des offres.</div>
+      </div>
+      <div class="fr-h5" id="section_11">Section 11 - Autres renseignements</div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Numéro de référence attribué au marché par le pouvoir
+                                        adjudicateur / l'entité adjudicatrice :
+                                    </span>202401</div>
+         <div>
+            <span class="fr-text--bold">Renseignements complémentaires : </span>Les dépôts de plis doivent être impérativement remis par voie dématérialisée.
+Cette consultation bénéficie du Service DUME.
+Pour retrouver cet avis intégral, accéder au DCE, poser des questions à l'acheteur, déposer un pli, allez sur https://www.marches-publics.info
+Type de marché de Fournitures :Code NUTS : FR103
+Lot 1 - Produits d'entretien, d'hygiène
+Lot 2 - Petits matériels
+Marchés réservés : NON
+Instance chargée des procédures de recours : Tribunal administratif de Versailles, 56 avenue de Saint Cloud
+78011 Versailles
+Tél : 0139205400 Fax : 0139205487Mel : greffe.ta-versailles@juradm.fr
+Organe chargé des procédures de médiation : Comité consultatif inter-départemental de règlement amiable des différends ou litiges, Préfecture de la Région Ile-de-France, 5, Rue Leblanc
+75911 PARIS Cedex
+Tél : 0182524267 Fax : 0182524295Mel : ccira@paris-idf.gouv.fr
+Précisions concernant le(s) délai(s) d'introduction des recours : Précisions concernant le(s) délai(s) d'introduction des recours :
+Référé pré-contractuel prévu aux articles L.551-1 à L.551-12 du Code de justice administrative (CJA), et pouvant être exercé avant la signature du contrat. Référé contractuel prévu aux articles L.551-13 à L.551-23 du CJA, et pouvant être exercé dans les délais prévus à l'article R. 551-7 du CJA. Recours pour excès de pouvoir contre une décision administrative prévu aux articles R. 421-1 à R. 421-7 du CJA, et pouvant être exercé dans les 2 mois suivant la notification ou publication de la décision de l'organisme (le recours ne peut plus, toutefois, être exercé après la signature du contrat). Recours de pleine juridiction ouvert aux tiers justifiant d'un intérêt lésé, et pouvant être exercé dans les deux mois suivant la date à laquelle la conclusion du contrat est rendue publique.
+L'acheteur prévoir de négocier, mais se réserve la possibilité d'attribuer le marché sur la base des offres initiales sans négociation en application de l'article R2123-5 du code de la commande publique. Si l'acheteur met en oeuvre les négociations, il envisage de les mener avec les 3 candidats ayant remis les meilleures offres.
+Le candidat devra impérativement être venu sur place visiter le site avant la présentation de son offre.
+Les candidats pourront adresser leurs questions via la plateforme AWS à l'adresse suivante : https://www.marches-publics.infos/ au plus tard 10 jours calendaires avant la date limite de remise des offres. L'acheteur se réserve le droit d'apporter au plus tard 6 jours avant la date limite fixée pour la réception des offres, des modifications de détail au dossier de consultation</div>
+      </div>
+      <div class="fr-h5" id="section_13">Section 13 - Renseignements relatifs aux
+                            lots
+                        </div>
+      <div class="section">
+         <div>
+            <span class="fr-text--bold">Possibilité de présenter une offre pour plusieurs
+                                        lots
+                                    </span>
+         </div>
+         <ul>
+            <li>
+               <div>
+                  <span class="fr-text--bold">Lot(s)
+                                                1</span> - Produits d'entretien, d'hygiène
+Produits d'entretien, d'hygiène</div>
+            </li>
+            <li>
+               <div>
+                  <span class="fr-text--bold">Lot(s)
+                                                2</span> - Petits matériels
+Petits matériels</div>
+            </li>
+         </ul>
+      </div>
+      <div class="fr-h5" id="section_14">Section 14 - Informations complémentaires
+                        </div>
+      <div class="section"/>
+      <hr/>
+      <div>
+         <span class="fr-text--bold">Date d'envoi du présent avis à la publication : </span>19/04/2024</div>
+   </body>
+</html>
+]]></HTML>
+   <HTMLSYNTHESE><![CDATA[<!DOCTYPE HTML>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   </head>
+   <body>
+      <h3>L’essentiel du marché</h3>
+      <ul>
+         <li><span class="fr-text--bold">Nom de l'organisme acheteur : </span>Commune de Chavenay</li>
+         <li><span class="fr-text--bold">A l'attention de : </span>MME&nbsp;Myriam&nbsp;BRENAC&nbsp;Maire</li>
+         <li><span class="fr-text--bold">Adresse : </span>Place de l'église,&nbsp;78450,&nbsp;CHAVENAY&nbsp;</li>
+         <li><span class="fr-text--bold">Téléphone : </span>0130543170</li>
+         <li><span class="fr-text--bold">Courriel : </span>mairie@chavenay.fr</li>
+         <li><span class="fr-text--bold">Adresse internet : </span><a href="https://www.marches-publics.info" target="_blank" title="Aller sur la page https://www.marches-publics.info - nouvelle fenêtre"><span>https://www.marches-publics.info</span></a></li>
+         <li><span class="fr-text--bold">Adresse internet du profil d'acheteur : </span><a href="https://www.marches-publics.info" target="_blank" title="Aller sur la page https://www.marches-publics.info - nouvelle fenêtre"><span>https://www.marches-publics.info</span></a></li>
+         <li><span class="fr-text--bold">Objet du marché : </span>Accord-cadre relatif à la fourniture de produits d'entretien, d'hygiène et de petits
+            équipements pour la commune de CHAVENAY (78)</li>
+         <li><span class="fr-text--bold">Possibilité de présenter une offre pour : </span>un ou plusieurs lots</li>
+         <li><span class="fr-text--bold">Renseignements relatifs aux lots :</span><ul>
+               <li>Lot no 1 : Produits d'entretien, d'hygiène Produits d'entretien, d'hygiène</li>
+               <li>Lot no 2 : Petits matériels Petits matériels</li>
+            </ul>
+         </li>
+         <li><span class="fr-text--bold">Caractéristiques principales : </span>Le présent accord-cadre est passé selon une procédure adaptée en application des articles
+            L2123-1 et R2123-1 1°du code de la commande publique. Le marché est un accord-cadre,
+            mono-attributaire, à bons de commandes au sens de l'article L2125-1-1° du Code de
+            la commande publique, qui s'exécute selon les dispositions des articles R2162-1 à
+            R2162-6 par l'émission de bons de commandes en application des articles R2162-13 et
+            R2162-14 de ce même code. Le marché n'est pas décomposé en tranches. Le présent marché
+            ne comporte pas de prestation supplémentaire éventuelle suivante. Les candidats sont
+            tenus de répondre à la solution de base décrite dans le dossier de marché joint. En
+            application de l'article R2151-8-2° du code de la commande publique, l'acheteur refuse
+            la présentation d'offres comportant une variante</li>
+         <li><span class="fr-text--bold">Quantité ou étendue : </span>La présente consultation a pour objet un accord-cadre à bons de commandes de fourniture,
+            ayant pour objet la fourniture de produits d'entretien, d'hygiène et de petits équipements
+            pour la commune de CHAVENAY (78). Le marché couvre les prestations suivantes : - conseil,
+            - prise de commande, - livraison sur site, - la garantie, - le service après-vente
+            : suivi de livraison, échange et reprise, suivie des anomalies. Les prestations s'entendent
+            sans montant minimum et avec les montants maximum annuels suivants: - Lot n°1: "Produits
+            d'entretien, d'hygiène": 12 000 euros HT; - Lot n°2: "Petits matériels": 1 500 euros
+            HT. L'accord-cadre est conclu pour une durée ferme de 12 mois à compter de sa notification.
+            L'accord-cadre est renouvelable tacitement trois (3) fois par période de 12 mois sans
+            excéder 4 ans</li>
+      </ul>
+      <h3>Informations pratiques</h3>
+      <ul>
+         <li><span class="fr-text--bold">Date limite de réception des offres : </span>17/05/2024 à 12:00</li>
+         <li><span class="fr-text--bold">Délai minimum de validité des offres : </span>120 jours</li>
+         <li><span class="fr-text--bold">Critères d'attribution : </span>Offre économiquement la plus avantageuse appréciée en fonction des critères énoncés
+            ci-dessous :
+            <ul>
+               <li>Prix : 60 %</li>
+               <li>Valeur technique de l'offre : 30 %</li>
+               <li>Pertinence des actions mises en place par le candidat afin d'inscrire les prestations
+                  du marché dans une démarche environnementale : 10 %</li>
+            </ul>
+         </li>
+      </ul>
+   </body>
+</html>]]></HTMLSYNTHESE>
+</jo:ann>
+
